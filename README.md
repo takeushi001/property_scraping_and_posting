@@ -107,4 +107,4 @@ response = openai.chat.completions.create(...)
 
 ## 📧 連絡先
 
-質問や提案がある場合は、\*\*[email@example.com](mailto\:email@example.com)\*\*までご連絡ください。
+質問や提案がある場合は、\*\*[takeushi001@gmail.com](mailto\:takeushi001@gmail.com)\*\*までご連絡ください。
